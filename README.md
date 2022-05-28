@@ -7,7 +7,7 @@
 <img width="1074" alt="Screen Shot 2022-05-28 at 7 39 06 AM" src="https://user-images.githubusercontent.com/68828858/170825887-388242ff-dc71-4ab0-ae4e-4a2397bd412a.png">
 
 2. Creamos los busckets para el almacenamiento de los datasets cumpliendo con el orden del mismo se inicializa /raw
-   ### URL:  https://https://jflopezgdatalake.s3.amazonaws.com/raw/datasets/
+   ### URL:  https://jflopezgdatalake.s3.amazonaws.com/raw/datasets/
    
 <img width="988" alt="Screen Shot 2022-05-28 at 7 41 55 AM" src="https://user-images.githubusercontent.com/68828858/170825981-e2c48434-d22e-41cd-b325-82a7481eb961.png">
 <img width="942" alt="Screen Shot 2022-05-28 at 7 42 54 AM" src="https://user-images.githubusercontent.com/68828858/170826005-061e23f2-15fd-49ed-90ce-5921987520cd.png">
